@@ -87,8 +87,9 @@ To delete a specific book, send a DELETE request to the `/book/{bookId}` endpoin
 Pull requests are welcome. 
 ## Contributors
 
--   Yohanes Getinet 
+-   Yohanes Getinet  
+   [![Twitter Follow](https://img.shields.io/twitter/follow/YohanesGetinet?style=social)](https://twitter.com/YohanesGetinet)
 
-## License
+## License 
 
 This project is licensed under the MIT License - see the LICENSE file for details.
